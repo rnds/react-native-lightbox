@@ -25,9 +25,9 @@ const styles = StyleSheet.create({
   },
   header: {
     position: 'absolute',
-    top: 0,
-    left: 0,
-    width: WINDOW_WIDTH,
+    top: 40,
+    left: 16,
+    width: WINDOW_WIDTH-16,
     backgroundColor: 'transparent',
   },
   closeButton: {
